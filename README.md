@@ -27,6 +27,8 @@ Project 01: Colored Box Separator [access here](https://github.com/evandr022/Pro
 Algorithms and Data Structures II [access here](https://github.com/evandr022/Algorithms-and-Data-Structures-II).</p>
 Digital Electronics II [access here](https://github.com/evandr022/Digital-Electronics-II).</p>
 Advanced Programming Techniques [acess here](https://github.com/evandr022/Advanced-Programming-Techniques).</p>
+Artificial intelligence [acess here](https://github.com/evandr022/Artificial-intelligence).</p>
+Operating Systems [acess here](https://github.com/evandr022/Operating-Systems).</p>
 
 ## 📚 Courses
 Course 01: Hangman and Divination Game [access here](https://github.com/Evandro02/Evandro_All_Projects/blob/main/Projeto_02). </p>
