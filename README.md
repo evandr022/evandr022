@@ -32,7 +32,7 @@ Advanced Programming Techniques [acess here](https://github.com/evandr022/Advanc
 Artificial intelligence [acess here](https://github.com/evandr022/Artificial-intelligence).</p>
 Operating Systems [acess here](https://github.com/evandr022/Operating-Systems).</p>
 
-## Extracurricular subjects
+## 📝 Extracurricular subjects
 VLSI Integrated Circuits [acess here](https://github.com/evandr022/VLSI-Integrated-Circuits).</p>
 
 ## 📚 Courses
