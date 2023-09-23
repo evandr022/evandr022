@@ -32,6 +32,9 @@ Advanced Programming Techniques [acess here](https://github.com/evandr022/Advanc
 Artificial intelligence [acess here](https://github.com/evandr022/Artificial-intelligence).</p>
 Operating Systems [acess here](https://github.com/evandr022/Operating-Systems).</p>
 
+## Extracurricular subjects
+VLSI Integrated Circuits [acess here](https://github.com/evandr022/VLSI-Integrated-Circuits).</p>
+
 ## 📚 Courses
 Course 01: Hangman and Divination Game [access here](https://github.com/Evandro02/Evandro_All_Projects/blob/main/Projeto_02). </p>
 Course 02: Computer Vision [access here](https://github.com/evandr022/Computer-Vision). </p>
