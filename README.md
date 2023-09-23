@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="[https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png](https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png)">
+  <img align="center" height="30" width="40" src="https://img2.gratispng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg?sanitize=true">
 </div>
 
