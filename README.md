@@ -13,14 +13,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evandr022&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evandr022&amp;layout=compact&amp;langs_count=7&amp;theme=transparent)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evandr022&theme=transparent&hide_border=falso&border_radius=4&mode=weekly)](https://git.io/streak-stats) -->
 
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://img2.gratispng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg?sanitize=true">
-</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,python,js,ts,mysql,sqlite,nodejs,docker,git,github,arduino,latex,linux,windows,md,androidstudio,opencv,perl,powershell,prisma,vscode" />
+  </a>
+</p>     
 
 ## 📁 Projects and Articles
 Project 01: Colored Box Separator [access here](https://github.com/evandr022/Projeto_01). </p>
@@ -40,8 +40,11 @@ VLSI Integrated Circuits [acess here](https://github.com/evandr022/VLSI-Integrat
 Course 01: Hangman and Divination Game [access here](https://github.com/Evandro02/Evandro_All_Projects/blob/main/Projeto_02). </p>
 Course 02: Computer Vision [access here](https://github.com/evandr022/Computer-Vision). </p>
 
+## 📑  Articles
+Articles 01: User Equipment Power Consumption Analysis Under NLOS TDL Channel Models for 5G Communication [access here](). </p>
+
 </br></br>
 
-<p align="center">
+<p align="center">   
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+your+visit;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=100000" alt="Example Usage - README Typing SVG">
 </p>
