@@ -22,8 +22,9 @@
   </a>
 </p>     
 
-## 📁 Projects and Articles
+## 📁 Projects
 Project 01: Colored Box Separator [access here](https://github.com/evandr022/Projeto_01). </p>
+Project 02: Web Programming [access here](https://github.com/evandr022/web-programming). </p>
 
 ## 📝 Undergraduate Subjects
 Algorithms and Data Structures II [access here](https://github.com/evandr022/Algorithms-and-Data-Structures-II).</p>
@@ -39,9 +40,11 @@ VLSI Integrated Circuits [acess here](https://github.com/evandr022/VLSI-Integrat
 ## 📚 Courses
 Course 01: Hangman and Divination Game [access here](https://github.com/Evandro02/Evandro_All_Projects/blob/main/Projeto_02). </p>
 Course 02: Computer Vision [access here](https://github.com/evandr022/Computer-Vision). </p>
+Course 03: DevTITANS (Development, Technology and Innovation in Android and Embedded Systems) [access here](https://github.com/evandr022/Computer-Vision). </p>
+
 
 ## 📑  Articles
-Articles 01: User Equipment Power Consumption Analysis Under NLOS TDL Channel Models for 5G Communication [access here](). </p>
+Articles 01: User Equipment Power Consumption Analysis Under NLOS TDL Channel Models for 5G Communication [access here](https://github.com/evandr022/Articles-01). </p>
 
 </br></br>
 
