@@ -7,7 +7,7 @@
 </p>
 
 <div>
-    <a href = "mailto:evandro.silva@icomp.ufam.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:evandro.silva@ufam.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href=https://www.linkedin.com/in/evandro-salvador-marinho-da-silva-510b26191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -31,6 +31,7 @@ Digital Electronics II [access here](https://github.com/evandr022/Digital-Electr
 Advanced Programming Techniques [acess here](https://github.com/evandr022/Advanced-Programming-Techniques).</p>
 Artificial intelligence [acess here](https://github.com/evandr022/Artificial-intelligence).</p>
 Operating Systems [acess here](https://github.com/evandr022/Operating-Systems).</p>
+Control Systems  [acess here](https://github.com/evandr022/control-system).</p>
 
 ## 📝 Extracurricular subjects
 VLSI Integrated Circuits [acess here](https://github.com/evandr022/VLSI-Integrated-Circuits).</p>
