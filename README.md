@@ -40,7 +40,7 @@ VLSI Integrated Circuits [acess here](https://github.com/evandr022/VLSI-Integrat
 ## 📚 Courses
 Course 01: Hangman and Divination Game [access here](https://github.com/Evandro02/Evandro_All_Projects/blob/main/Projeto_02). </p>
 Course 02: Computer Vision [access here](https://github.com/evandr022/Computer-Vision). </p>
-Course 03: DevTITANS (Development, Technology and Innovation in Android and Embedded Systems) [access here](https://github.com/evandr022/Computer-Vision). </p>
+Course 03: DevTITANS (Development, Technology and Innovation in Android and Embedded Systems) [access here](https://github.com/evandr022/DevTITANS-Projeto-IR). </p>
 
 
 ## 📑  Articles
